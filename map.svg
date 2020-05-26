@@ -1716,6 +1716,26 @@
        y1="-893.62506"
        x2="821.26672"
        y2="-893.62506" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1109"
+       id="linearGradient1465"
+       gradientUnits="userSpaceOnUse"
+       x1="-340.78336"
+       y1="-1156.0916"
+       x2="-309.03336"
+       y2="-1156.0916"
+       gradientTransform="matrix(1.5333333,0,0,1.6,1458.1333,-3587.2164)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1109"
+       id="linearGradient1475"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.53333333,0,0,1,-405.86668,-48.01025)"
+       x1="-340.78336"
+       y1="-1156.0916"
+       x2="-309.03336"
+       y2="-1156.0916" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1806,17 +1826,17 @@
      sodipodi:insensitive="true">
     <path
        id="path1320"
-       d="m 5744.0105,2288 v 136 h -272 v 288 h -56 V 2424 H 4888.0114 V 2584 h -24 v 40 H 4704.0111 V 2784 h 80 v 16 h -64 v 128 h 128 v -64 h 16 v 80 h 520 v -40 h 560 v 64 h 64 v -64 h 16 V 2984 h 448 v 56 h 256 v -224 h -24 l -5e-4,-1432 -360,0.01 v 80 h -360 v -248 h -200 v 184 h -104 v 184 h -16 v 360 h 40 V 2064 H 4032.0118 v -40 h -120 v 40 H 3632.0122 V 2384 h -40 v 120 h -40 v 120 h 40 v 80 h 40 v 240 h 120 v -120 h 80 v 120 h 8 v 112 h 56 v -112 h 96 v -80 h 160 v 80 h 200 v -656 z m -1952,904 h 120 v 80 h 40 v -80 h 240 v -96 h 56 v 56 h 104 v 680 h -40 v 40 h -160 v -40 h -160 v 40 h -160 v -40 h -40 z M 6584.011,3576 v -312 -120 h -80 v -40 h -200 v 40 h -160 v -40 h -160 v 240 h 160 v -40 h 80 V 3576 M 2552.0112,2928 v 160 h -120 v -640 h 120 v 280 h 360 v -40 h 40 v -40 h 120 v 40 h 120 v 40 h 200 v 200 z M 584.01046,-608 584.01084,976 H 384.01033 v 360 h -48 v 48 h 48 v 128 h -64 l 7.9e-4,64 h 16 l -8.2e-4,48 h 48 l 8.2e-4,920 h 160 v 520 h 120 v -40 h 80 v 80 H 1384 v 40 h 120 v -40 h 120 v -40 h 40 l 0.079,-1032 h -216.0682 v -424 h 672 v 296 h 392 v 40 h 456 v 80 h 160 v -80 h 1024 v -240 h -80 l -3e-4,-96 h 32 v 80 h 112 v -56 h -24 v -32 h -64 v -16 h 24 v -240 h 872 v -344 h 1928 v 408 h 272 v 120 h 40 v 248 h -56 v 152 h 56 V 2184 h -128 v 192 h 128 v 744 h -120 v 80 h -40 v 240 h -200 v 840 h 3096 V -608"
+       d="m 5744.0105,2288 v 136 h -272 v 288 h -56 v -288 h -528 v 160 h -24 v 40 h -160 v 160 h 80 v 16 h -64 v 128 h 128 v -64 h 16 v 80 h 520 v -40 h 560 v 64 h 64 v -64 h 16 v 80 h 448 v 56 h 256 v -224 h -24 l -5e-4,-1432 -360,0.01 v 80 h -360 v -248 h -200 v 184 h -104 v 184 h -16 v 360 h 40 V 2064 H 4032.0118 v -40 h -120 v 40 h -280 v 320 h -40 v 120 h -40 v 120 h 40 v 80 h 40 v 240 h 120 v -120 h 80 v 120 h 8 v 112 h 56 v -112 h 96 v -80 h 160 v 80 h 200 v -656 z m -1952,904 h 120 v 80 h 40 v -80 h 240 v -96 h 56 v 56 h 104 v 680 h -40 v 40 h -160 v -40 h -160 v 40 h -160 v -40 h -40 z m 2792,384 v -312 -120 h -80 v -40 h -200 v 40 h -160 v -40 h -160 v 240 h 160 v -40 h 80 v 272 M 2552.0112,2928 v 160 h -120 v -640 h 120 v 280 h 360 v -40 h 40 v -40 h 120 v 40 h 120 v 40 h 200 v 200 z M 584.01046,-608 584.01084,976 H 384.01033 v 360 h -48 v 48 h 48 v 128 h -64 l 7.9e-4,64 h 16 l -8.2e-4,48 h 48 l 8.2e-4,920 h 160 v 520 h 120 v -40 h 80 v 80 H 1384 v 40 h 120 v -40 h 120 v -40 h 40 l 0.079,-1032 h -216.0682 v -424 h 672 v 296 h 392 v 40 h 456 v 80 h 160 v -80 h 1024 v -240 h -80 l -3e-4,-96 h 32 v 80 h 112 v -56 h -24 v -32 h -64 v -16 h 24 v -240 h 872 v -344 h 1928 v 408 h 272 v 120 h 40 v 248 h -56 v 152 h 56 v 256 h -128 v 192 h 128 v 744 h -120 v 80 h -40 v 240 h -200 v 840 H 10000.011 V -608"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        inkscape:connector-curvature="0"
        d="m 7224,1040 h 472 v 272 h -472 z"
-       style="enable-background:new;display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1494);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1494);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        id="path1492" />
     <path
        id="path1496"
-       style="enable-background:new;display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1498);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1498);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        d="m 7280,1312 h 360 v 56 h -360 z"
        inkscape:connector-curvature="0" />
   </g>
@@ -4707,6 +4727,22 @@
        height="24"
        x="-1424"
        y="7584" />
+    <rect
+       transform="rotate(-90)"
+       y="5680"
+       x="-1584"
+       height="64"
+       width="184"
+       id="rect1463"
+       style="display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1465);fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1475);fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       id="rect1473"
+       width="64"
+       height="40"
+       x="-1464"
+       y="5744"
+       transform="rotate(-90)" />
   </g>
   <g
      inkscape:groupmode="layer"
