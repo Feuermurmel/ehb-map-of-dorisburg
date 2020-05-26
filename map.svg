@@ -4776,10 +4776,10 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       d="M 224.03661,1952 H 1751.9579 m 264.0524,416 h 776 v 824 h -776 z M 224.03661,728 V 3232 H 1767.9474 V 728 Z M 3462.2427,1608 H 2200.0103 m 1152,936 v -936 m 110.2323,0 H 2200.0103 m -10e-5,-752 h 928 V 200 H 2200.0103 V 2064 h 1152 m 360,968 v 920 h 720 v -1000 V 520 H 3136.0104 M 9112.0106,3312 h -816 m 0,-600 h 816 V 4064 H 8296 V 2456 M 7048.0103,1616 h 1496 v 840 h -1496 M 8296,3584 H 7048.0103 V 1088 h 1096 v 528 m -2704,744 h -784 v 704 H 5992 V 2304 H 5440.011 l 7e-4,760 M 6520.0118,2384 v -704 m -616,1384 v 408 h 904 V 2384 h -816 m -408,-704 h 1200 v -544 h -1200 V 2304 M 3352.0104,1984 h 1080 m 0,-624 H 3464.0104 M 2792.0103,3032 H 4432.0102 M 3464.0104,1608 V 520 M 2792.0103,2544 h 688 v 488"
+       d="M 224.03661,1952 H 1751.9579 m 264.0524,416 h 776 v 824 h -776 z M 224.03661,728 V 3232 H 1767.9474 V 728 Z M 3462.2427,1608 H 2200.0103 m 1152,936 v -936 m 110.2323,0 H 2200.0103 m -10e-5,-752 h 928 V 200 h -928 v 1864 h 1152 m 360,968 v 920 h 720 V 2952 520 H 3136.0104 m 5976,2792 h -816 m 0,-600 h 816 V 4064 H 8296 V 2456 M 7048.0103,1616 h 1496 v 840 h -1496 M 8296,3584 H 7048.0103 V 1088 h 1096 v 528 m -2704,744 h -784 v 704 H 5992 v -760 h -551.989 l 7e-4,760 m 1080,-680 v -704 m -616,1384 v 408 h 896 V 2384 h -808 M 5824,1680 h 976.0118 v -424 h -976 z m 0,-320 h -240 l 0.012,944 M 3352.0104,1984 h 1080 m 0,-624 h -968 M 2792.0103,3032 H 4432.0102 M 3464.0104,1608 V 520 m -672,2024 h 688 v 488"
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient1081);stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:48, 48;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        id="path1150"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>
